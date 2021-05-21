@@ -1,0 +1,4 @@
+# width heigth filepath page
+1600 1200 sources\images\1.png 1
+1600 1200 sources/images/2.png 2
+1600 1200 sources/images/3.png 3
